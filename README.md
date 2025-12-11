@@ -36,7 +36,8 @@ workflow-engine/
    The API will be available at `http://127.0.0.1:8000`.
 
 3. **Explore the API**
-   Open `http://127.0.0.1:8000/docs` to see the Swagger UI.
+   - **API Docs (Swagger UI)**: http://127.0.0.1:8000/docs
+   - **Root Endpoint**: http://127.0.0.1:8000/
 
 ## Sample Workflow: Code Review Agent
 A pre-loaded sample workflow is available (ID: `sample-code-review`). It simulates a code review process:
